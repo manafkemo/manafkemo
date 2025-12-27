@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**manafkemo/manafkemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Manaf Kemo
 
-Here are some ideas to get you started:
+💻 **Software Engineer** with a strong interest in Front-End development  
+🚀 Building products with a long-term vision, focused on SaaS and scalable ideas  
+🧠 Passionate about productivity, clean UI, and using AI to solve real problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- Software Engineer with **2+ years** of experience
+- Intermediate level in **Frontend development**
+- Strong foundation in **HTML & CSS**
+- Currently learning **JavaScript** deeply
+- Intermediate experience with **Flutter**
+- Front-end oriented, with a product-driven mindset
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (Learning), Tailwind CSS
+- **Mobile:** Flutter
+- **Tools:** Git, GitHub
+- **Interests:** UI/UX, Performance, Clean Code, AI-powered products
+
+---
+
+## 📚 Currently Learning
+- JavaScript (Core concepts & real use cases)
+- Modern Front-End practices
+- Building scalable product architectures
+
+---
+
+## 🚀 Current Project
+🧩 **AI-Powered Productivity App**  
+Building a productivity-focused application enhanced with AI to help users work smarter and stay focused.
+
+---
+
+## 🎯 Goal
+💡 Build a **SaaS business** that generates **$10,000/month**  
+I focus on learning, building, and iterating with real products — not just tutorials.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: your@email.com
+- Instagram: https://instagram.com/YOUR_USERNAME
+- X (Twitter): https://x.com/YOUR_USERNAME
+
+⭐️ *Always learning. Always building.*
