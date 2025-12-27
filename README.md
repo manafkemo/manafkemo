@@ -47,7 +47,7 @@ I focus on learning, building, and iterating with real products — not just tut
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/@manafkemo
-- Email: manafkemo@email.com
+- Email: manafkemo@gmail.com
 - Instagram: https://instagram.com/@7zici
 - X (Twitter): https://x.com/@manafkemo
 
