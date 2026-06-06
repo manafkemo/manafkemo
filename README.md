@@ -73,9 +73,9 @@ A new approach to learning where students can:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manafkemo&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manafkemo&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manafkemo&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manafkemo&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -86,7 +86,6 @@ A new approach to learning where students can:
 <img src="https://streak-stats.demolab.com?user=manafkemo&theme=dark&hide_border=true" />
 
 </div>
-
 ---
 
 # 🧠 Current Objectives
