@@ -126,21 +126,13 @@ and stay motivated longer.
 
 <div align="center">
 
-<a href="https://github.com/manafkemo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://x.com/manafkemo">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
-</a>
-
-<a href="https://instagram.com/manafkemo">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a>
-
-<a href="mailto:manafkemo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
+<a href="https://github.com/manafkemo">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/manafkemo">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/manafkemo">Instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:manafkemo@gmail.com">Email</a>
 
 </div>
 
@@ -148,9 +140,7 @@ and stay motivated longer.
 
 # 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manafkemo/manafkemo/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake gif](https://github.com/manafkemo/manafkemo/blob/output/github-snake-dark.svg)
 
 ---
 
