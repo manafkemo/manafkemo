@@ -1,54 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-# 👋 Hi, I'm Manaf Kemo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,100:9fd700&text=Manaf%20Kemo&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-💻 **Software Engineer** with a strong interest in Front-End development  
-🚀 Building products with a long-term vision, focused on SaaS and scalable ideas  
-🧠 Passionate about productivity, clean UI, and using AI to solve real problems  
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=9FD700&center=true&vCenter=true&width=900&lines=Founder+of+LearnoSlay;Full-Stack+Developer;AI+%C3%97+Education+%C3%97+Design;Building+the+Future+of+Learning" />
 
-## 🧑‍💻 About Me
-- Software Engineer with **2+ years** of experience
-- Intermediate level in **Frontend development**
-- Strong foundation in **HTML & CSS**
-- Currently learning **JavaScript** deeply
-- Intermediate experience with **Flutter**
-- Front-end oriented, with a product-driven mindset
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=manafkemo&label=Profile+Views&color=9fd700&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (Learning), Tailwind CSS
-- **Mobile:** Flutter
-- **Tools:** Git, GitHub
-- **Interests:** UI/UX, Performance, Clean Code, AI-powered products
+# ⚡ About Me
+
+```yaml
+name: Manaf Kemo
+
+role: Founder & Developer
+
+focus:
+  - Artificial Intelligence
+  - Education Technology
+  - Product Design
+  - Startup Building
+
+currently_building:
+  - LearnoSlay
+
+mission:
+  Build educational products that make learning
+  visual, engaging and unforgettable.
+```
 
 ---
 
-## 📚 Currently Learning
-- JavaScript (Core concepts & real use cases)
-- Modern Front-End practices
-- Building scalable product architectures
+# 🚀 Building
+
+<div align="center">
+
+## 🎓 LearnoSlay
+
+The platform I'm currently building.
+
+A new approach to learning where students can:
+
+🧠 Understand concepts visually
+
+🗺️ Follow structured learning roadmaps
+
+🤖 Learn alongside AI
+
+🎯 Stay focused on outcomes
+
+</div>
 
 ---
 
-## 🚀 Current Project
-🧩 **AI-Powered Productivity App**  
-Building a productivity-focused application enhanced with AI to help users work smarter and stay focused.
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,express,supabase,firebase,git,github,vercel,linux,vscode,figma" />
+
+</div>
 
 ---
 
-## 🎯 Goal
-💡 Build a **SaaS business** that generates **$10,000/month**  
-I focus on learning, building, and iterating with real products — not just tutorials.
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manafkemo&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manafkemo&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=manafkemo&theme=dark&hide_border=true" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/manafkemo
-- Email: manafkemo@gmail.com
-- Instagram: https://instagram.com/manafkemo
-- X (Twitter): https://x.com/manafkemo
+# 🧠 Current Objectives
 
-⭐️ *Always learning. Always building.*
+```text
+✓ Build LearnoSlay MVP
+✓ Create a premium user experience
+✓ Integrate AI deeply into learning
+✓ Grow a community of learners
+✓ Launch publicly
+```
+
+---
+
+# 🌌 Vision
+
+> Learning should feel like exploration,
+> not memorization.
+
+My goal is to build products that help people
+learn faster, understand deeper,
+and stay motivated longer.
+
+---
+
+# 🏆 Highlights
+
+- 🚀 Building LearnoSlay
+- 🚀 Obsessed with Shipping
+- 🤖 Exploring AI-powered education
+- ⚡ Focused on creating premium experiences
+- 🌍 Interested in startup building
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/manafkemo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://x.com/manafkemo">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://instagram.com/manafkemo">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="mailto:manafkemo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manafkemo/manafkemo/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Learn. Ship. Improve. Repeat.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050505,100:9fd700" />
